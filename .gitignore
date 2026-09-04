@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Backup/archive files
+*.zip
+*.zip_old
+
+# OS files
+.DS_Store
